@@ -3,7 +3,8 @@
 - I am currently studiying at Microvers as a full stack web develper.
 
 ##  Github Status and Most Languages Used
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical)
+
+![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical)
 
 ## Languages,Technologies and Tools
