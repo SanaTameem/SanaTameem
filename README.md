@@ -1,34 +1,68 @@
-# Hey there:wave:I'm Sana Tameem.
-- A software developer based in Kabul Afghanistan. 
-- I am currently studiying at Microvers as a full stack web develper.
-
-##  Github Status and Most Languages Used
-
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical)
+<h1 align="center"> Hey there! 👋🏻 I'm Sana Tameem.</h1>
+- :earth_asia: Software developer based in Kabul, Afghanistan, passionate about coding and creating innovative software solutions.<br>
+- :mortar_board: Enrolled in Microverse as a dedicated full-stack web developer.
 
 ## Languages,Technologies and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white),![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white), ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass&logoColor=white), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white),
-![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=android&logoColor=white), ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white),<br> ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white), ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white),
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio&logoColor=white), ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-
+[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](#) 
+[![CSS](https://img.icons8.com/color/48/000000/css3.png)](#) 
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](#)
+[![Sass](https://img.icons8.com/color/48/000000/sass.png)](#)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](#) 
+[![PHP](https://img.icons8.com/color/48/000000/php.png)](#) 
+[![Android](https://img.icons8.com/color/48/000000/android-os.png)](#)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](#) 
+[![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](#) 
+[![Python](https://img.icons8.com/color/48/000000/python.png)](#) 
+[![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](#)
+[![Google Chrome](https://img.icons8.com/color/48/000000/chrome.png)](#)
+[![Figma](https://img.icons8.com/color/48/000000/figma.png)](#)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](#) 
+[![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](#)
+ 
 ## Currently learning
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white), ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](#) 
+[![Redux](https://img.icons8.com/color/48/000000/redux.png)](#)
+[![Ruby](https://img.icons8.com/color/48/000000/ruby-programming-language.png)](#)
+[![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](#) 
+[![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)](#) 
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](#)
+
+
+##  Github Status
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 50%;">
+</div>
+<br>
+
+## Most Languages Used
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;">
+</div>
 
 ## Interests
-- Machine learning :computer:
-- Data Science :chart_with_upwards_trend:
+
+- :robot: Exploring the intersection of Artificial Intelligence and Robotics.
+- :art: Creative coding and generative art projects.
+- :camera: Photography and capturing moments through a lens.
+- :books: Reading science fiction and fantasy novels.
+- :earth_americas: Traveling and experiencing diverse cultures.
+- :tea: Exploring different tea varieties and their traditions.
+- :walking: Taking leisurely walks in nature.
+- :spiral_notepad: Solving challenging puzzles and brain teasers.
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
-<p align="center">
-  <a target="_blank"
-    href="http://linkedin.com/in/sana-tameem-a63b55240"><img
-    src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
-  <a target="_blank"
-    href="mailto:sanatameem38@gmail.com"><img
-    src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-  <a target="_blank"
-    href="https://twitter.com/sana_tameem"><img
-    src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-</p>
+<div align="center">
+  <p>
+    <a href="mailto:youremail@example.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
+    </a>
+    <a href="https://twitter.com/your-twitter-handle">
+      <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter">
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+    </a>
+  </p>
+</div>
+
