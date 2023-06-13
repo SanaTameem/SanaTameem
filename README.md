@@ -1,6 +1,8 @@
 <h1 align="center"> Hey there! 👋🏻 I'm Sana Tameem.</h1>
-- :earth_asia: Software developer based in Kabul, Afghanistan, passionate about coding and creating innovative software solutions.<br>
-- :mortar_board: Enrolled in Microverse as a dedicated full-stack web developer.
+- :earth_asia: Software developer based in Kabul, Afghanistan, passionate about coding and creating innovative software solutions. <br>
+- :mortar_board: Enrolled in Microverse as a dedicated full-stack web developer and currently on the lookout for new opportunities.
+
+
 
 ## Languages,Technologies and Tools
 [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](#) 
