@@ -33,13 +33,13 @@
 
 ##  Github Status
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 40%; height: 200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanaTameem&theme=radical" alt="Sana's GitHub streak" style="width: 40%; height: 200px">
 </div>
-<br>
 
 ## Most Languages Used
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical" alt="Top Langs" style="width: 40%; height: 200px">
 </div>
 
 ## Interests
