@@ -23,12 +23,31 @@
 [![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](#)
  
 ## Currently learning
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](#) 
-[![Redux](https://img.icons8.com/color/48/000000/redux.png)](#)
-[![Ruby](https://img.icons8.com/color/48/000000/ruby-programming-language.png)](#)
-[![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](#) 
-[![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)](#) 
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](#)
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="50" height="50"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50" height="50"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50" height="50"/>
+</a>
+
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+</a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/> </a>
 
 
 ##  Github Status
