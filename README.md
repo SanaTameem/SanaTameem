@@ -76,13 +76,13 @@
 
 <div align="center">
   <p>
-    <a href="mailto:youremail@example.com">
+    <a href="mailto:sanatameem38@gmail.com">
       <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
     </a>
-    <a href="https://twitter.com/your-twitter-handle">
+    <a href="https://twitter.com/sana_tameem">
       <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter">
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <a href="https://www.linkedin.com/in/sana-tameem/">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
     </a>
   </p>
