@@ -75,16 +75,13 @@
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
 <div align="center">
-  <p>
-    <a href="mailto:sanatameem38@gmail.com">
-      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
-    </a>
-    <a href="https://twitter.com/sana_tameem">
-      <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter">
-    </a>
-    <a href="https://www.linkedin.com/in/sana-tameem/">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-    </a>
-  </p>
+<a href="mailto:sanatameem38@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
+  </a>
+  <a href="https://twitter.com/sana_tameem">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/sana-tameem/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
 </div>
-
