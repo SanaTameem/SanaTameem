@@ -50,15 +50,19 @@
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/> </a>
 
 
-##  Github Status
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 50%; height: 200px">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanaTameem&theme=radical" alt="Sana's GitHub streak" style="width: 50%; height: 200px"> -->
+##  GitHub Status
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 50%">
+  <img src="https://streak-stats.demolab.com/?user=SanaTameem&theme=radical" alt="Sana's GitHub streak" style="width: 50%">
 </div>
 
 ## Most Languages Used
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical" alt="Top Langs" style="width: 50%; height: 200px">
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;">
+</div>
+
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=SanaTameem&theme=radical" alt="trophy" style="width: 80%;"> -->
 </div>
 
 ## Interests
