@@ -72,7 +72,7 @@
 - :camera: Photography and capturing moments through a lens.
 - :books: Reading science fiction and fantasy novels.
 - :earth_americas: Traveling and experiencing diverse cultures.
-- :tea: Exploring different tea varieties and their traditions.
+- :coffee: Exploring various coffee blends.
 - :walking: Taking leisurely walks in nature.
 - :spiral_notepad: Solving challenging puzzles and brain teasers.
 
