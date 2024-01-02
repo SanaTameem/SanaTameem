@@ -11,29 +11,22 @@
 [![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](#)
 [![Sass](https://img.icons8.com/color/48/000000/sass.png)](#)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](#) 
-[![PHP](https://img.icons8.com/color/48/000000/php.png)](#) 
-[![Android](https://img.icons8.com/color/48/000000/android-os.png)](#)
-[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](#) 
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
 [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](#) 
-[![Python](https://img.icons8.com/color/48/000000/python.png)](#) 
 [![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](#)
 [![Google Chrome](https://img.icons8.com/color/48/000000/chrome.png)](#)
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](#)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](#) 
 [![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](#)
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="50" height="50"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="50" height="50"/> </a>
-
+<!--
 ## Currently learning
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50" height="50"/>
@@ -46,7 +39,7 @@
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
 </a>
-
+-->
 ##  GitHub Status
 <div style="width: 100%; display: flex; justify-content: center; align-items: center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 50%">
