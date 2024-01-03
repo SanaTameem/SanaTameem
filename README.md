@@ -19,7 +19,6 @@
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
-[![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](#) 
 [![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](#)
 [![Google Chrome](https://img.icons8.com/color/48/000000/chrome.png)](#)
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](#)
