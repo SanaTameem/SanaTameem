@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px"> I'm Sana Tameem.</h1>
+<h1 align="center">Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px">I'm Sana Tameem.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanaTameem&label=Views&color=blue&style=plastic" alt="Sana Tameem" /></p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" style="width:15px" /> Software Engineer based in Kabul, Afghanistan, passionate about coding and creating innovative software solutions. <br>
