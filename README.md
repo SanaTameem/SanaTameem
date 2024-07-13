@@ -41,7 +41,7 @@
 -->
 ##  GitHub Status
 <div style="width: 100%; display: flex; justify-content: center; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true" alt="Sana's GitHub stats" style="width: 50%">
+  
   <img src="https://streak-stats.demolab.com/?user=SanaTameem&theme=radical" alt="Sana's GitHub streak" style="width: 50%">
 </div>
 
