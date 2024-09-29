@@ -19,12 +19,16 @@
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
 [![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](#)
 [![Google Chrome](https://img.icons8.com/color/48/000000/chrome.png)](#)
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](#)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](#) 
 [![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](#)
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="50" height="50"/></a>
+
 <!--
 ## Currently learning
 <a href="#" target="_blank" rel="noreferrer">
