@@ -11,14 +11,17 @@
 [![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](#)
 [![Sass](https://img.icons8.com/color/48/000000/sass.png)](#)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](#) 
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50"/></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
 [![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](#)
 [![Google Chrome](https://img.icons8.com/color/48/000000/chrome.png)](#)
