@@ -6,65 +6,36 @@
 
 
 ## Languages, Technologies and Tools
-[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](#) 
-[![CSS](https://img.icons8.com/color/48/000000/css3.png)](#) 
-[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](#)
-[![Sass](https://img.icons8.com/color/48/000000/sass.png)](#)
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](#) 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="50" height="50"/></a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="50" height="50"/></a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="50" height="50"/></a>
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50"/></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
-[![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](#)
-[![Google Chrome](https://img.icons8.com/color/48/000000/chrome.png)](#)
-[![Figma](https://img.icons8.com/color/48/000000/figma.png)](#)
-[![Git](https://img.icons8.com/color/48/000000/git.png)](#) 
-[![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](#)
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="50" height="50"/></a>
-<!--
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
--->
 
-<!--
-## Currently learning
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50" height="50"/>
-</a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
+<a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
+<a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+<a href="https://react.dev/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+<a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>
+<a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/></a>
+<a href="https://www.ruby-lang.org/"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby"/></a>
+<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
+<a href="https://rubyonrails.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="48" height="48" alt="Rails"/></a>
+<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP"/></a>
+<a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
+<a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome"/></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
 
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50" height="50"/>
-</a>
+</p>
 
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
-</a>
--->
+
 ##  GitHub Status
 <div style="width: 100%; display: flex; justify-content: center; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaTameem&layout=compact&theme=radical&show_icons=true&locale=en" alt="SanaTameem" style="width: 50%">
   <img src="https://streak-stats.demolab.com/?user=SanaTameem&theme=radical" alt="Sana's GitHub streak" style="width: 50%">
 </div>
 
-## Most Languages Used
-<div style="width: 100%; display: flex; justify-content: center; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaTameem&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;">
-</div>
-
-<div style="width: 100%; display: flex; justify-content: center; align-items: center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=SanaTameem&theme=radical" alt="trophy" style="width: 80%;"> -->
-</div>
-
 ## Interests
-
 - :robot: Exploring the intersection of Artificial Intelligence and Robotics.
 - :art: Creative coding and generative art projects.
 - :camera: Photography and capturing moments through a lens.
@@ -75,15 +46,9 @@
 - :spiral_notepad: Solving challenging puzzles and brain teasers.
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
-
 <div align="center">
-<a href="mailto:sanatameem38@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/sana_tameem">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/sana-tameem/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
+  <a href="mailto:sanatameem38@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"></a>
+  <a href="https://x.com/sanooo2001" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/sana-tameem/" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 </div>
+
