@@ -4,9 +4,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" style="width:15px" /> Software Engineer based in Kabul, Afghanistan, passionate about coding and creating innovative software solutions. <br>
 :mortar_board:Completed Microverse full-stack web development program and currently on the lookout for new opportunities.
 
-
 ## Languages, Technologies and Tools
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
@@ -26,24 +24,20 @@
 <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
-
 </p>
-
 
 ##  GitHub Status
 <div style="width: 100%; display: flex; justify-content: center; align-items: center">
   <img src="https://streak-stats.demolab.com/?user=SanaTameem&theme=radical" alt="Sana's GitHub streak" style="width: 50%">
 </div>
-
+  
 ## Interests
-- :robot: Exploring the intersection of Artificial Intelligence and Robotics.
-- :art: Creative coding and generative art projects.
-- :camera: Photography and capturing moments through a lens.
-- :books: Reading science fiction and fantasy novels.
-- :earth_americas: Traveling and experiencing diverse cultures.
-- :coffee: Exploring various coffee blends.
-- :walking: Taking leisurely walks in nature.
-- :spiral_notepad: Solving challenging puzzles and brain teasers.
+- :robot: AI and robotics.
+- :camera: Capturing moments with my camera.
+- :books: Getting lost in magical stories.
+- :earth_americas: Discovering new cultures.
+- :coffee: Trying different coffee blends.
+- :walking: Peaceful walks in nature.
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 <div align="center">
@@ -51,4 +45,3 @@
   <a href="https://x.com/sanooo2001" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/sana-tameem/" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 </div>
-
